@@ -7,7 +7,6 @@ A simple and clean **Login & Signup UI** built with Flutter.
 ### 🔐 Login & Signup
 
 * Separate Login and Signup screens.
-* Navigation between Login and Signup screens.
 * Clean and simple user interface.
 
 ### 🎨 Interactive Text Fields
