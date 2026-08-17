@@ -88,14 +88,13 @@ This project was created to practice building Flutter user interfaces, handling 
 ## 📱 Screens
 
 ### 🔐 Login Screen
-
-![Login Screen](screenshots/login.png)
+![Login Screen](lib/screenshots/login.png)
 
 ### 📝 Signup Screen
+![Signup Screen](lib/screenshots/signup.png)
 
-![Signup Screen](screenshots/signup.png)
 
 ## 👩‍💻 Author
 
-**Mora Emad**
+**MIRAL EMAD**
 
