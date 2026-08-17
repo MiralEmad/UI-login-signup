@@ -87,10 +87,13 @@ This project was created to practice building Flutter user interfaces, handling 
 
 ## 📱 Screens
 
-<p align="center">
-  <img src="lib/screenshots/login.png" width="300"/>
-  <img src="lib/screenshots/signup.png" width="300"/>
-</p>
+### 🔐 Login Screen
+
+![Login Screen](lib/screenshots/login.png)
+
+### 📝 Signup Screen
+
+![Signup Screen](lib/screenshots/signup.png)
 
 
 ## 👩‍💻 Author
